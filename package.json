@@ -1,5 +1,5 @@
 {
-  "name": "disable-welcome-modal",
+  "name": "@tinypixelco/disable-welcome-modal",
   "description": "Disables the WP editor's welcome modal",
   "homepage": "https://github.com/pixelcollective/disable-welcome-modal",
   "licenses": [{"type": "MIT", "url": "http://opensource.org/licenses/MIT"}],
