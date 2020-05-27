@@ -1,0 +1,11 @@
+{
+  "project": {
+    "name": "disable-welcome-modal",
+    "namespace": "disable-welcome-modal",
+    "description": "Disables the WP editor&#x27;s welcome modal",
+    "website": "https://github.com/pixelcollective/plugin-disable-modal",
+    "author": "Kelly Mears",
+    "email": "developers@tinypixel.dev"
+  },
+  "installed": ["bud"]
+}
