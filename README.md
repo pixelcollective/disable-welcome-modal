@@ -1,25 +1,18 @@
 # Disable Welcome Modal
 
+[@tinypixelco/disable-welcome-modal](https://www.npmjs.com/package/@tinypixelco/disable-welcome-modal)
+
 Disables the WP editor's welcome modal
 
 This project was bootstrapped with [🌱 Bud](https://github.com/roots/bud).
 
 ## Installation
 
-You can install this plugin via Composer on a [Bedrock install](https://roots.io/bedrock/), or the WordPress admin panel.
+This script is meant to be included in an existing Gutenberg build.
 
-### via Composer
-
-```sh
-composer require disable-welcome-modal/disable-welcome-modal
+```js
+import '@tinypixelco/disable-welcome-modal'
 ```
-
-### via WordPress Admin Panel
-
-1. Download the latest version of this block
-2. In your WordPress admin panel, navigate to Plugins -> Add New
-3. Click Upload Plugin
-4. Upload the zip file that you downloaded
 
 ## Development
 
